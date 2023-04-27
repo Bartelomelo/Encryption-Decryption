@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-classes-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-classes-kotlin.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-reports-tests.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-test-results.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-tmp.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Arrays-Initializing_an_array.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Arrays-Initializing_an_array_of_characters.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Arrays-Printing_the_last_element.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Arrays-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Lambda_expressions-Capturing_variable.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Lambda_expressions-Max.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="Encryption-Decryption.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
